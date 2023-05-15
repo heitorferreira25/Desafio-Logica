@@ -68,7 +68,7 @@ Apenas inteiros positivos podem ser usados como notas.
 
 ```console
 Entrada 1: 'May the force be with you'
-Entrada 2: 'There's No Place Like Home'
+Entrada 2: 'There's no place like home'
 Entrada 3: 'With great power comes great responsibility'
 ```
 
