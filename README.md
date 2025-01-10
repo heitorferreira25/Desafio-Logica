@@ -9,7 +9,7 @@
 + Pode criar um repositório publico e enviar suas respostas.
 + Pode enviar as respostas como arquivo anexadas por e-mail.
 
-##### E-mail para ti@grupoastran.com.br.
+##### E-mail para tecnologia@novoseguros.com.br
 ##### Assunto: 'TESTE LÓGICO RESPOSTAS // {COLOQUE AQUI O SEU NOME COMPLETO}'
 
 ---
