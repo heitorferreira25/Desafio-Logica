@@ -1,4 +1,4 @@
-## Desafio de Lógica by [Rodrigo Ferro](https://github.com/RodrigoferroBR) - Grupo Astran
+## Desafio de Lógica by [Rodrigo Ferro](https://github.com/RodrigoferroBR) - Novo Seguros
 ##### Observações Gerais:
 + Acessar a IDE de desenvolvimento desejada.
 + Usar a linguagem preferida desde que atenda os requisitos.
