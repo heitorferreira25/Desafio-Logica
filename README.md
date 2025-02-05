@@ -10,7 +10,7 @@
 + Pode enviar as respostas como arquivo anexadas por e-mail.
 
 ##### E-mail para tecnologia@novoseguros.com.br
-##### Assunto: 'TESTE LÓGICO RESPOSTAS // {COLOQUE AQUI O SEU NOME COMPLETO}'
+##### Assunto: 'TESTE LÓGICO RESPOSTAS // HEITOR FERREIRA SOUSA'
 
 ---
 ## Desafio 1:
